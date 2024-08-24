@@ -1,0 +1,13 @@
+name: process_mining_application
+title: process_mining_application
+username:
+account: ndrshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11972736
+bundleId: 9022162
+url: https://ndrshiny.shinyapps.io/process_mining_application/
+when: 1724523376.43932
+lastSyncTime: 1724523376.43933
+asMultiple: FALSE
+asStatic: FALSE
