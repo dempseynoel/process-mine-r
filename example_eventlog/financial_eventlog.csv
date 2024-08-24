@@ -1,0 +1,1005 @@
+timestamp,case_id,activity_id
+2022-07-28 09:23:51,0,Invoice Entry
+2022-07-28 17:59:06,0,Check Customer Payment
+2022-07-29 09:43:19,0,Credit Memo Entry
+2022-07-29 15:04:05,0,Refund Customer
+2022-08-01 09:49:00,0,Re-issuing the invoice
+2022-07-21 09:43:01,1,Invoice Entry
+2022-07-21 12:05:24,1,Check Customer Payment
+2022-07-21 13:54:26,1,Credit Memo Entry
+2022-07-21 15:44:39,1,Refund Customer
+2022-07-21 17:51:44,1,Re-issuing the invoice
+2022-07-19 10:03:04,2,Invoice Entry
+2022-07-20 09:12:49,2,Confirm Payment Received
+2022-07-20 14:47:48,2,Refund With Special Voucher
+2022-07-21 15:15:57,2,Complete the Customer Memo
+2022-07-22 09:35:22,2,Approve Invoice
+2022-07-22 17:05:45,2,Credit Memo Creation
+2022-07-25 09:44:07,2,Fill Credit Memo
+2022-07-25 15:59:49,2,Re-issuing the invoice
+2022-08-22 09:12:16,3,Invoice Entry
+2022-08-22 10:42:51,3,Confirm Payment Received
+2022-08-22 12:11:44,3,Refund With Standard Voucher
+2022-08-22 13:36:22,3,Complete the Customer Memo
+2022-08-23 09:17:14,3,Reject Invoice
+2022-08-23 12:35:54,3,Refund With Standard Voucher
+2022-08-23 13:48:59,3,Complete the Customer Memo
+2022-08-23 17:03:10,3,Reject Invoice
+2022-08-24 09:21:17,3,Refund With Standard Voucher
+2022-08-24 10:36:28,3,Complete the Customer Memo
+2022-08-24 14:05:48,3,Reject Invoice
+2022-08-25 09:20:58,3,Refund With Standard Voucher
+2022-08-25 10:54:55,3,Complete the Customer Memo
+2022-08-25 15:15:26,3,Approve Invoice
+2022-08-26 09:55:45,3,Credit Memo Creation
+2022-08-26 11:05:23,3,Fill Credit Memo
+2022-08-26 12:44:04,3,Re-issuing the invoice
+2022-08-24 09:18:35,4,Invoice Entry
+2022-08-24 11:54:04,4,Confirm Payment Received
+2022-08-24 13:19:35,4,Refund With Standard Voucher
+2022-08-24 14:30:43,4,Complete the Customer Memo
+2022-08-24 16:37:18,4,Approve Invoice
+2022-08-25 09:04:27,4,Credit Memo Creation
+2022-08-25 10:31:49,4,Fill Credit Memo
+2022-08-25 11:24:58,4,Re-issuing the invoice
+2022-07-21 13:59:41,5,Invoice Entry
+2022-07-22 09:19:22,5,Check Customer Payment
+2022-07-22 16:32:10,5,Credit Memo Entry
+2022-07-25 09:05:26,5,Refund Customer
+2022-07-25 16:22:47,5,Re-issuing the invoice
+2022-07-27 09:54:59,6,Invoice Entry
+2022-07-27 17:33:44,6,Confirm Payment Received
+2022-07-28 09:39:07,6,Refund With Special Voucher
+2022-07-29 09:05:10,6,Complete the Customer Memo
+2022-08-01 09:09:39,6,Approve Invoice
+2022-08-01 17:33:08,6,Credit Memo Creation
+2022-08-02 09:26:38,6,Fill Credit Memo
+2022-08-02 17:15:24,6,Re-issuing the invoice
+2022-07-28 15:11:07,7,Invoice Entry
+2022-07-28 16:11:25,7,Check Customer Payment
+2022-07-28 17:09:57,7,Credit Memo Entry
+2022-07-29 09:38:28,7,Refund Customer
+2022-07-29 10:22:08,7,Re-issuing the invoice
+2022-07-26 12:19:51,8,Invoice Entry
+2022-07-26 13:35:07,8,Confirm Payment Received
+2022-07-26 14:33:30,8,Refund With Standard Voucher
+2022-07-26 15:39:34,8,Complete the Customer Memo
+2022-07-26 17:35:28,8,Reject Invoice
+2022-07-27 09:33:40,8,Refund With Standard Voucher
+2022-07-27 10:17:14,8,Complete the Customer Memo
+2022-07-27 12:56:41,8,Reject Invoice
+2022-07-27 15:08:05,8,Refund With Standard Voucher
+2022-07-27 16:05:31,8,Complete the Customer Memo
+2022-07-28 09:43:59,8,Approve Invoice
+2022-07-28 12:05:29,8,Credit Memo Creation
+2022-07-28 12:57:23,8,Fill Credit Memo
+2022-07-28 13:39:14,8,Re-issuing the invoice
+2022-07-29 13:36:36,9,Invoice Entry
+2022-07-29 14:43:20,9,Check Customer Payment
+2022-07-29 15:48:18,9,Credit Memo Entry
+2022-07-29 16:30:46,9,Refund Customer
+2022-07-29 17:48:24,9,Re-issuing the invoice
+2022-07-25 10:07:36,10,Invoice Entry
+2022-07-25 15:53:52,10,Confirm Payment Received
+2022-07-26 09:52:10,10,Refund With Standard Voucher
+2022-07-26 16:03:22,10,Complete the Customer Memo
+2022-07-27 09:12:27,10,Approve Invoice
+2022-07-28 09:18:16,10,Credit Memo Creation
+2022-07-28 16:03:39,10,Fill Credit Memo
+2022-07-29 09:04:33,10,Re-issuing the invoice
+2022-07-19 09:58:31,11,Invoice Entry
+2022-07-19 11:06:38,11,Check Customer Payment
+2022-07-19 11:48:20,11,Credit Memo Entry
+2022-07-19 12:56:57,11,Refund Customer
+2022-07-19 14:45:32,11,Re-issuing the invoice
+2022-08-09 15:36:13,12,Invoice Entry
+2022-08-09 16:51:44,12,Check Customer Payment
+2022-08-09 17:45:30,12,Credit Memo Entry
+2022-08-10 09:54:45,12,Refund Customer
+2022-08-10 10:53:14,12,Re-issuing the invoice
+2022-08-18 10:20:50,13,Invoice Entry
+2022-08-18 11:41:41,13,Check Customer Payment
+2022-08-18 12:20:45,13,Credit Memo Entry
+2022-08-18 13:00:58,13,Refund Customer
+2022-08-18 13:56:37,13,Re-issuing the invoice
+2022-07-21 16:38:05,14,Invoice Entry
+2022-07-22 09:11:52,14,Confirm Payment Received
+2022-07-22 10:46:55,14,Refund With Standard Voucher
+2022-07-22 11:36:03,14,Complete the Customer Memo
+2022-07-22 13:49:22,14,Reject Invoice
+2022-07-22 16:44:19,14,Refund With Standard Voucher
+2022-07-22 17:24:26,14,Complete the Customer Memo
+2022-07-25 09:48:35,14,Approve Invoice
+2022-07-25 13:09:43,14,Credit Memo Creation
+2022-07-25 13:57:12,14,Fill Credit Memo
+2022-07-25 14:38:33,14,Re-issuing the invoice
+2022-07-22 09:03:04,15,Invoice Entry
+2022-07-22 17:47:02,15,Confirm Payment Received
+2022-07-25 09:12:17,15,Refund With Special Voucher
+2022-07-26 09:38:31,15,Complete the Customer Memo
+2022-07-26 17:56:46,15,Approve Invoice
+2022-07-27 09:25:16,15,Credit Memo Creation
+2022-07-27 16:14:20,15,Fill Credit Memo
+2022-07-28 09:33:16,15,Re-issuing the invoice
+2022-07-20 09:26:55,16,Invoice Entry
+2022-07-20 15:25:50,16,Confirm Payment Received
+2022-07-21 09:19:59,16,Refund With Special Voucher
+2022-07-22 09:22:58,16,Complete the Customer Memo
+2022-07-22 15:36:16,16,Reject Invoice
+2022-07-25 09:45:09,16,Refund With Standard Voucher
+2022-07-25 16:04:57,16,Complete the Customer Memo
+2022-07-26 09:07:27,16,Reject Invoice
+2022-07-26 16:57:31,16,Refund With Special Voucher
+2022-07-27 09:08:43,16,Complete the Customer Memo
+2022-07-28 09:02:55,16,Reject Invoice
+2022-07-28 15:32:43,16,Refund With Special Voucher
+2022-07-29 09:40:29,16,Complete the Customer Memo
+2022-08-01 09:51:27,16,Approve Invoice
+2022-08-02 09:43:49,16,Credit Memo Creation
+2022-08-02 16:41:32,16,Fill Credit Memo
+2022-08-03 09:40:03,16,Re-issuing the invoice
+2022-07-14 09:49:51,17,Invoice Entry
+2022-07-14 10:57:29,17,Confirm Payment Received
+2022-07-14 12:22:04,17,Refund With Standard Voucher
+2022-07-14 13:02:51,17,Complete the Customer Memo
+2022-07-14 16:02:00,17,Approve Invoice
+2022-07-15 09:48:18,17,Credit Memo Creation
+2022-07-15 10:32:13,17,Fill Credit Memo
+2022-07-15 11:22:01,17,Re-issuing the invoice
+2022-08-17 15:11:39,18,Invoice Entry
+2022-08-17 16:26:57,18,Check Customer Payment
+2022-08-17 17:36:09,18,Credit Memo Entry
+2022-08-18 09:10:58,18,Refund Customer
+2022-08-18 11:32:20,18,Re-issuing the invoice
+2022-08-16 09:02:14,19,Invoice Entry
+2022-08-16 10:50:51,19,Confirm Payment Received
+2022-08-16 12:45:14,19,Refund With Standard Voucher
+2022-08-16 14:09:28,19,Complete the Customer Memo
+2022-08-17 09:24:31,19,Reject Invoice
+2022-08-17 13:01:00,19,Refund With Standard Voucher
+2022-08-17 13:43:34,19,Complete the Customer Memo
+2022-08-17 16:29:52,19,Approve Invoice
+2022-08-18 09:04:47,19,Credit Memo Creation
+2022-08-18 10:37:52,19,Fill Credit Memo
+2022-08-18 12:22:34,19,Re-issuing the invoice
+2022-07-18 15:12:45,20,Invoice Entry
+2022-07-18 16:53:50,20,Check Customer Payment
+2022-07-19 09:09:44,20,Credit Memo Entry
+2022-07-19 09:56:41,20,Refund Customer
+2022-07-19 11:25:53,20,Re-issuing the invoice
+2022-07-15 13:20:36,21,Invoice Entry
+2022-07-18 09:51:04,21,Check Customer Payment
+2022-07-18 17:09:24,21,Credit Memo Entry
+2022-07-19 09:39:43,21,Refund Customer
+2022-07-19 17:25:55,21,Re-issuing the invoice
+2022-08-16 11:11:05,22,Invoice Entry
+2022-08-16 12:29:11,22,Confirm Payment Received
+2022-08-16 13:36:57,22,Refund With Standard Voucher
+2022-08-16 14:39:33,22,Complete the Customer Memo
+2022-08-16 17:31:00,22,Reject Invoice
+2022-08-17 09:56:56,22,Refund With Standard Voucher
+2022-08-17 10:37:11,22,Complete the Customer Memo
+2022-08-17 13:17:08,22,Reject Invoice
+2022-08-17 15:55:44,22,Refund With Standard Voucher
+2022-08-17 17:03:34,22,Complete the Customer Memo
+2022-08-18 09:09:54,22,Reject Invoice
+2022-08-18 11:26:45,22,Refund With Standard Voucher
+2022-08-18 12:20:54,22,Complete the Customer Memo
+2022-08-18 15:04:00,22,Reject Invoice
+2022-08-18 17:21:30,22,Refund With Standard Voucher
+2022-08-19 09:31:03,22,Complete the Customer Memo
+2022-08-19 12:38:29,22,Approve Invoice
+2022-08-19 15:39:08,22,Credit Memo Creation
+2022-08-19 16:11:10,22,Fill Credit Memo
+2022-08-19 16:25:18,22,Re-issuing the invoice
+2022-08-15 09:50:40,23,Invoice Entry
+2022-08-15 11:24:23,23,Confirm Payment Received
+2022-08-15 12:20:39,23,Refund With Standard Voucher
+2022-08-15 13:05:36,23,Complete the Customer Memo
+2022-08-15 16:08:24,23,Approve Invoice
+2022-08-16 09:19:09,23,Credit Memo Creation
+2022-08-16 10:14:55,23,Fill Credit Memo
+2022-08-16 11:05:51,23,Re-issuing the invoice
+2022-08-22 11:50:41,24,Invoice Entry
+2022-08-22 13:10:37,24,Confirm Payment Received
+2022-08-22 14:26:58,24,Refund With Standard Voucher
+2022-08-22 15:14:30,24,Complete the Customer Memo
+2022-08-23 09:20:56,24,Reject Invoice
+2022-08-23 12:33:49,24,Refund With Standard Voucher
+2022-08-23 13:21:26,24,Complete the Customer Memo
+2022-08-23 17:34:52,24,Reject Invoice
+2022-08-24 09:23:00,24,Refund With Standard Voucher
+2022-08-24 10:02:55,24,Complete the Customer Memo
+2022-08-24 13:13:54,24,Reject Invoice
+2022-08-24 16:29:36,24,Refund With Standard Voucher
+2022-08-24 17:25:36,24,Complete the Customer Memo
+2022-08-25 09:04:50,24,Approve Invoice
+2022-08-25 11:41:19,24,Credit Memo Creation
+2022-08-25 12:35:13,24,Fill Credit Memo
+2022-08-25 13:19:04,24,Re-issuing the invoice
+2022-07-26 09:21:37,25,Invoice Entry
+2022-07-26 11:26:00,25,Check Customer Payment
+2022-07-26 13:00:59,25,Credit Memo Entry
+2022-07-26 14:28:33,25,Refund Customer
+2022-07-26 16:20:50,25,Re-issuing the invoice
+2022-08-17 14:27:30,26,Invoice Entry
+2022-08-17 15:58:30,26,Confirm Payment Received
+2022-08-17 17:29:18,26,Refund With Standard Voucher
+2022-08-18 09:05:19,26,Complete the Customer Memo
+2022-08-18 11:15:38,26,Approve Invoice
+2022-08-18 15:03:41,26,Credit Memo Creation
+2022-08-18 15:54:39,26,Fill Credit Memo
+2022-08-18 16:42:47,26,Re-issuing the invoice
+2022-08-19 11:05:19,27,Invoice Entry
+2022-08-19 12:24:55,27,Check Customer Payment
+2022-08-19 13:45:27,27,Credit Memo Entry
+2022-08-19 14:12:58,27,Refund Customer
+2022-08-19 14:55:36,27,Re-issuing the invoice
+2022-07-25 09:27:42,28,Invoice Entry
+2022-07-25 17:07:05,28,Confirm Payment Received
+2022-07-26 09:40:16,28,Refund With Standard Voucher
+2022-07-26 15:23:58,28,Complete the Customer Memo
+2022-07-27 09:05:28,28,Approve Invoice
+2022-07-28 09:21:18,28,Credit Memo Creation
+2022-07-28 15:12:12,28,Fill Credit Memo
+2022-07-29 09:40:04,28,Re-issuing the invoice
+2022-07-20 09:49:07,29,Invoice Entry
+2022-07-20 10:41:18,29,Check Customer Payment
+2022-07-20 11:44:01,29,Credit Memo Entry
+2022-07-20 13:16:01,29,Refund Customer
+2022-07-20 14:21:32,29,Re-issuing the invoice
+2022-07-26 14:47:04,30,Invoice Entry
+2022-07-27 09:04:35,30,Check Customer Payment
+2022-07-27 16:19:38,30,Credit Memo Entry
+2022-07-28 09:16:58,30,Refund Customer
+2022-07-28 15:16:50,30,Re-issuing the invoice
+2022-08-08 10:05:37,31,Invoice Entry
+2022-08-08 12:22:33,31,Check Customer Payment
+2022-08-08 13:47:07,31,Credit Memo Entry
+2022-08-08 15:33:49,31,Refund Customer
+2022-08-08 17:32:18,31,Re-issuing the invoice
+2022-08-12 09:03:51,32,Invoice Entry
+2022-08-12 10:19:10,32,Check Customer Payment
+2022-08-12 12:55:16,32,Credit Memo Entry
+2022-08-12 15:07:10,32,Refund Customer
+2022-08-12 16:33:37,32,Re-issuing the invoice
+2022-08-10 15:31:56,33,Invoice Entry
+2022-08-10 16:46:46,33,Check Customer Payment
+2022-08-10 17:50:31,33,Credit Memo Entry
+2022-08-11 09:22:05,33,Refund Customer
+2022-08-11 11:11:10,33,Re-issuing the invoice
+2022-07-22 14:02:10,34,Invoice Entry
+2022-07-22 15:28:46,34,Check Customer Payment
+2022-07-22 16:30:32,34,Credit Memo Entry
+2022-07-22 17:35:22,34,Refund Customer
+2022-07-25 09:07:21,34,Re-issuing the invoice
+2022-07-25 09:21:37,35,Invoice Entry
+2022-07-25 11:34:26,35,Check Customer Payment
+2022-07-25 13:21:10,35,Credit Memo Entry
+2022-07-25 14:38:04,35,Refund Customer
+2022-07-25 16:25:23,35,Re-issuing the invoice
+2022-08-23 13:26:42,36,Invoice Entry
+2022-08-23 14:41:14,36,Confirm Payment Received
+2022-08-23 15:46:23,36,Refund With Standard Voucher
+2022-08-23 16:33:05,36,Complete the Customer Memo
+2022-08-24 09:16:46,36,Approve Invoice
+2022-08-24 12:19:29,36,Credit Memo Creation
+2022-08-24 13:10:23,36,Fill Credit Memo
+2022-08-24 14:15:38,36,Re-issuing the invoice
+2022-07-29 13:46:36,37,Invoice Entry
+2022-07-29 15:44:34,37,Check Customer Payment
+2022-07-29 17:26:37,37,Credit Memo Entry
+2022-08-01 09:03:36,37,Refund Customer
+2022-08-01 10:16:15,37,Re-issuing the invoice
+2022-08-17 14:17:30,38,Invoice Entry
+2022-08-17 16:53:45,38,Confirm Payment Received
+2022-08-18 09:37:33,38,Refund With Standard Voucher
+2022-08-18 11:13:40,38,Complete the Customer Memo
+2022-08-18 14:24:08,38,Approve Invoice
+2022-08-19 09:16:00,38,Credit Memo Creation
+2022-08-19 09:56:49,38,Fill Credit Memo
+2022-08-19 10:51:19,38,Re-issuing the invoice
+2022-08-10 09:38:14,39,Invoice Entry
+2022-08-10 11:37:30,39,Check Customer Payment
+2022-08-10 12:57:44,39,Credit Memo Entry
+2022-08-10 15:09:26,39,Refund Customer
+2022-08-10 16:50:09,39,Re-issuing the invoice
+2022-07-20 16:36:43,40,Invoice Entry
+2022-07-21 09:50:18,40,Check Customer Payment
+2022-07-21 17:40:46,40,Credit Memo Entry
+2022-07-22 09:58:00,40,Refund Customer
+2022-07-22 15:17:12,40,Re-issuing the invoice
+2022-07-15 13:37:58,41,Invoice Entry
+2022-07-18 09:24:57,41,Check Customer Payment
+2022-07-18 16:55:53,41,Credit Memo Entry
+2022-07-19 09:58:55,41,Refund Customer
+2022-07-20 09:37:47,41,Re-issuing the invoice
+2022-07-25 17:08:12,42,Invoice Entry
+2022-07-26 09:20:06,42,Confirm Payment Received
+2022-07-26 17:06:59,42,Refund With Special Voucher
+2022-07-27 09:59:36,42,Complete the Customer Memo
+2022-07-28 09:38:58,42,Reject Invoice
+2022-07-29 09:16:06,42,Refund With Standard Voucher
+2022-07-29 15:20:28,42,Complete the Customer Memo
+2022-08-01 09:58:39,42,Approve Invoice
+2022-08-02 09:54:16,42,Credit Memo Creation
+2022-08-02 16:30:35,42,Fill Credit Memo
+2022-08-03 09:16:09,42,Re-issuing the invoice
+2022-08-18 09:33:15,43,Invoice Entry
+2022-08-18 10:42:12,43,Check Customer Payment
+2022-08-18 12:45:45,43,Credit Memo Entry
+2022-08-18 14:34:50,43,Refund Customer
+2022-08-18 16:41:55,43,Re-issuing the invoice
+2022-07-25 10:17:36,44,Invoice Entry
+2022-07-25 16:22:41,44,Confirm Payment Received
+2022-07-26 09:20:40,44,Refund With Standard Voucher
+2022-07-26 16:53:38,44,Complete the Customer Memo
+2022-07-27 09:21:21,44,Approve Invoice
+2022-07-27 17:20:40,44,Credit Memo Creation
+2022-07-28 09:06:31,44,Fill Credit Memo
+2022-07-28 16:59:58,44,Re-issuing the invoice
+2022-07-14 09:59:51,45,Invoice Entry
+2022-07-14 11:49:01,45,Confirm Payment Received
+2022-07-14 13:38:05,45,Refund With Standard Voucher
+2022-07-14 15:34:37,45,Complete the Customer Memo
+2022-07-15 09:50:00,45,Approve Invoice
+2022-07-15 13:37:14,45,Credit Memo Creation
+2022-07-15 14:46:59,45,Fill Credit Memo
+2022-07-15 15:37:15,45,Re-issuing the invoice
+2022-07-15 11:46:55,46,Invoice Entry
+2022-07-18 09:21:54,46,Confirm Payment Received
+2022-07-18 14:56:16,46,Refund With Special Voucher
+2022-07-19 09:24:59,46,Complete the Customer Memo
+2022-07-19 16:58:55,46,Approve Invoice
+2022-07-20 09:32:33,46,Credit Memo Creation
+2022-07-20 15:42:35,46,Fill Credit Memo
+2022-07-21 09:36:14,46,Re-issuing the invoice
+2022-08-18 10:30:50,47,Invoice Entry
+2022-08-18 11:49:37,47,Check Customer Payment
+2022-08-18 12:35:47,47,Credit Memo Entry
+2022-08-18 13:45:34,47,Refund Customer
+2022-08-18 15:15:16,47,Re-issuing the invoice
+2022-07-14 15:56:17,48,Invoice Entry
+2022-07-14 17:05:35,48,Check Customer Payment
+2022-07-14 17:55:49,48,Credit Memo Entry
+2022-07-15 09:26:08,48,Refund Customer
+2022-07-15 10:50:04,48,Re-issuing the invoice
+2022-08-11 17:49:25,49,Invoice Entry
+2022-08-12 09:03:31,49,Check Customer Payment
+2022-08-12 10:46:15,49,Credit Memo Entry
+2022-08-12 12:02:34,49,Refund Customer
+2022-08-12 13:30:30,49,Re-issuing the invoice
+2022-07-15 09:29:44,50,Invoice Entry
+2022-07-15 11:06:49,50,Check Customer Payment
+2022-07-15 12:12:08,50,Credit Memo Entry
+2022-07-15 13:14:46,50,Refund Customer
+2022-07-15 14:36:34,50,Re-issuing the invoice
+2022-08-10 10:17:53,51,Invoice Entry
+2022-08-10 11:47:54,51,Check Customer Payment
+2022-08-10 12:46:30,51,Credit Memo Entry
+2022-08-10 13:51:45,51,Refund Customer
+2022-08-10 15:26:01,51,Re-issuing the invoice
+2022-07-25 12:02:33,52,Invoice Entry
+2022-07-25 13:11:46,52,Confirm Payment Received
+2022-07-25 15:34:31,52,Refund With Standard Voucher
+2022-07-25 17:11:29,52,Complete the Customer Memo
+2022-07-26 09:24:33,52,Reject Invoice
+2022-07-26 12:57:13,52,Refund With Standard Voucher
+2022-07-26 14:46:18,52,Complete the Customer Memo
+2022-07-27 09:37:03,52,Approve Invoice
+2022-07-27 13:48:00,52,Credit Memo Creation
+2022-07-27 15:06:48,52,Fill Credit Memo
+2022-07-27 16:39:41,52,Re-issuing the invoice
+2022-07-20 13:08:05,53,Invoice Entry
+2022-07-21 09:26:20,53,Check Customer Payment
+2022-07-21 16:33:39,53,Credit Memo Entry
+2022-07-22 09:13:27,53,Refund Customer
+2022-07-22 16:46:53,53,Re-issuing the invoice
+2022-07-21 13:49:41,54,Invoice Entry
+2022-07-22 09:50:20,54,Check Customer Payment
+2022-07-22 16:58:58,54,Credit Memo Entry
+2022-07-25 09:52:50,54,Refund Customer
+2022-07-25 17:12:26,54,Re-issuing the invoice
+2022-07-25 09:31:37,55,Invoice Entry
+2022-07-25 10:34:35,55,Confirm Payment Received
+2022-07-25 11:34:09,55,Refund With Standard Voucher
+2022-07-25 12:22:37,55,Complete the Customer Memo
+2022-07-25 15:19:49,55,Reject Invoice
+2022-07-25 17:49:08,55,Refund With Standard Voucher
+2022-07-26 09:34:41,55,Complete the Customer Memo
+2022-07-26 13:12:12,55,Approve Invoice
+2022-07-26 16:14:38,55,Credit Memo Creation
+2022-07-26 17:20:40,55,Fill Credit Memo
+2022-07-27 09:21:54,55,Re-issuing the invoice
+2022-08-15 10:45:17,56,Invoice Entry
+2022-08-15 12:54:49,56,Confirm Payment Received
+2022-08-15 15:08:20,56,Refund With Standard Voucher
+2022-08-15 16:39:58,56,Complete the Customer Memo
+2022-08-16 09:49:51,56,Reject Invoice
+2022-08-16 11:48:07,56,Refund With Standard Voucher
+2022-08-16 13:24:39,56,Complete the Customer Memo
+2022-08-16 17:14:31,56,Approve Invoice
+2022-08-17 09:52:33,56,Credit Memo Creation
+2022-08-17 11:13:57,56,Fill Credit Memo
+2022-08-17 12:08:18,56,Re-issuing the invoice
+2022-07-27 13:19:33,57,Invoice Entry
+2022-07-28 09:04:59,57,Confirm Payment Received
+2022-07-28 16:23:06,57,Refund With Special Voucher
+2022-07-29 09:04:48,57,Complete the Customer Memo
+2022-08-01 09:21:11,57,Reject Invoice
+2022-08-02 09:28:53,57,Refund With Standard Voucher
+2022-08-02 15:36:54,57,Complete the Customer Memo
+2022-08-03 09:34:30,57,Reject Invoice
+2022-08-04 09:27:55,57,Refund With Special Voucher
+2022-08-05 09:41:08,57,Complete the Customer Memo
+2022-08-08 09:02:57,57,Approve Invoice
+2022-08-08 17:57:08,57,Credit Memo Creation
+2022-08-09 09:57:39,57,Fill Credit Memo
+2022-08-09 16:23:27,57,Re-issuing the invoice
+2022-07-15 09:08:34,58,Invoice Entry
+2022-07-15 14:28:28,58,Confirm Payment Received
+2022-07-18 09:16:40,58,Refund With Standard Voucher
+2022-07-18 13:46:24,58,Complete the Customer Memo
+2022-07-19 09:16:25,58,Approve Invoice
+2022-07-20 09:54:40,58,Credit Memo Creation
+2022-07-21 09:52:05,58,Fill Credit Memo
+2022-07-21 14:51:32,58,Re-issuing the invoice
+2022-08-11 16:32:55,59,Invoice Entry
+2022-08-11 17:52:24,59,Check Customer Payment
+2022-08-12 09:57:29,59,Credit Memo Entry
+2022-08-12 11:00:14,59,Refund Customer
+2022-08-12 12:08:35,59,Re-issuing the invoice
+2022-08-01 15:31:28,60,Invoice Entry
+2022-08-01 17:15:06,60,Confirm Payment Received
+2022-08-02 09:35:49,60,Refund With Standard Voucher
+2022-08-02 10:36:55,60,Complete the Customer Memo
+2022-08-02 14:16:04,60,Reject Invoice
+2022-08-02 17:20:41,60,Refund With Standard Voucher
+2022-08-03 09:13:36,60,Complete the Customer Memo
+2022-08-03 13:02:04,60,Reject Invoice
+2022-08-03 15:19:14,60,Refund With Standard Voucher
+2022-08-03 16:00:56,60,Complete the Customer Memo
+2022-08-04 09:33:07,60,Reject Invoice
+2022-08-04 13:40:11,60,Refund With Standard Voucher
+2022-08-04 15:09:43,60,Complete the Customer Memo
+2022-08-04 17:44:32,60,Reject Invoice
+2022-08-05 09:28:49,60,Refund With Standard Voucher
+2022-08-05 10:37:45,60,Complete the Customer Memo
+2022-08-05 15:07:11,60,Approve Invoice
+2022-08-08 09:42:58,60,Credit Memo Creation
+2022-08-08 10:56:34,60,Fill Credit Memo
+2022-08-08 11:45:23,60,Re-issuing the invoice
+2022-07-18 15:40:28,61,Invoice Entry
+2022-07-19 09:14:51,61,Check Customer Payment
+2022-07-20 09:14:57,61,Credit Memo Entry
+2022-07-20 15:43:15,61,Refund Customer
+2022-07-21 09:17:21,61,Re-issuing the invoice
+2022-08-19 09:08:33,62,Invoice Entry
+2022-08-19 10:58:28,62,Check Customer Payment
+2022-08-19 12:22:57,62,Credit Memo Entry
+2022-08-19 13:22:59,62,Refund Customer
+2022-08-19 15:25:51,62,Re-issuing the invoice
+2022-08-19 16:55:11,63,Invoice Entry
+2022-08-22 09:10:04,63,Check Customer Payment
+2022-08-22 10:47:57,63,Credit Memo Entry
+2022-08-22 12:04:08,63,Refund Customer
+2022-08-22 14:11:10,63,Re-issuing the invoice
+2022-08-01 12:14:27,64,Invoice Entry
+2022-08-01 14:13:46,64,Confirm Payment Received
+2022-08-01 16:11:20,64,Refund With Standard Voucher
+2022-08-01 17:45:17,64,Complete the Customer Memo
+2022-08-02 09:13:32,64,Approve Invoice
+2022-08-02 14:12:36,64,Credit Memo Creation
+2022-08-02 15:39:10,64,Fill Credit Memo
+2022-08-02 17:07:25,64,Re-issuing the invoice
+2022-07-20 14:29:30,65,Invoice Entry
+2022-07-20 15:51:50,65,Check Customer Payment
+2022-07-20 16:35:41,65,Credit Memo Entry
+2022-07-20 17:12:44,65,Refund Customer
+2022-07-21 09:21:56,65,Re-issuing the invoice
+2022-07-26 14:37:04,66,Invoice Entry
+2022-07-27 09:56:40,66,Check Customer Payment
+2022-07-27 16:12:05,66,Credit Memo Entry
+2022-07-28 09:11:50,66,Refund Customer
+2022-07-28 16:18:43,66,Re-issuing the invoice
+2022-07-27 09:00:20,67,Invoice Entry
+2022-07-27 10:35:21,67,Confirm Payment Received
+2022-07-27 12:47:54,67,Refund With Standard Voucher
+2022-07-27 13:59:57,67,Complete the Customer Memo
+2022-07-28 09:10:29,67,Reject Invoice
+2022-07-28 10:18:27,67,Refund With Standard Voucher
+2022-07-28 11:46:53,67,Complete the Customer Memo
+2022-07-28 15:24:47,67,Approve Invoice
+2022-07-29 09:09:35,67,Credit Memo Creation
+2022-07-29 10:47:33,67,Fill Credit Memo
+2022-07-29 11:33:31,67,Re-issuing the invoice
+2022-08-15 10:25:17,68,Invoice Entry
+2022-08-15 11:35:34,68,Confirm Payment Received
+2022-08-15 13:41:55,68,Refund With Standard Voucher
+2022-08-15 14:29:12,68,Complete the Customer Memo
+2022-08-16 09:31:10,68,Reject Invoice
+2022-08-16 12:08:39,68,Refund With Standard Voucher
+2022-08-16 13:17:15,68,Complete the Customer Memo
+2022-08-16 15:40:20,68,Approve Invoice
+2022-08-17 09:11:25,68,Credit Memo Creation
+2022-08-17 10:59:28,68,Fill Credit Memo
+2022-08-17 13:02:15,68,Re-issuing the invoice
+2022-07-15 09:49:44,69,Invoice Entry
+2022-07-15 11:26:04,69,Check Customer Payment
+2022-07-15 13:09:05,69,Credit Memo Entry
+2022-07-15 15:22:24,69,Refund Customer
+2022-07-15 17:19:02,69,Re-issuing the invoice
+2022-07-28 09:28:12,70,Invoice Entry
+2022-07-28 10:47:49,70,Check Customer Payment
+2022-07-28 12:14:19,70,Credit Memo Entry
+2022-07-28 13:02:16,70,Refund Customer
+2022-07-28 14:02:34,70,Re-issuing the invoice
+2022-07-18 09:45:33,71,Invoice Entry
+2022-07-18 12:01:30,71,Confirm Payment Received
+2022-07-18 14:40:24,71,Refund With Standard Voucher
+2022-07-18 15:50:01,71,Complete the Customer Memo
+2022-07-19 09:04:38,71,Approve Invoice
+2022-07-19 12:17:25,71,Credit Memo Creation
+2022-07-19 14:16:16,71,Fill Credit Memo
+2022-07-19 15:11:10,71,Re-issuing the invoice
+2022-07-14 10:19:51,72,Invoice Entry
+2022-07-14 12:39:00,72,Check Customer Payment
+2022-07-14 14:04:41,72,Credit Memo Entry
+2022-07-14 14:55:45,72,Refund Customer
+2022-07-14 17:16:26,72,Re-issuing the invoice
+2022-08-18 09:43:15,73,Invoice Entry
+2022-08-18 10:56:56,73,Check Customer Payment
+2022-08-18 11:58:25,73,Credit Memo Entry
+2022-08-18 12:40:20,73,Refund Customer
+2022-08-18 13:35:02,73,Re-issuing the invoice
+2022-07-28 16:31:15,74,Invoice Entry
+2022-07-29 09:55:54,74,Check Customer Payment
+2022-07-29 16:02:06,74,Credit Memo Entry
+2022-08-01 09:11:49,74,Refund Customer
+2022-08-01 17:27:50,74,Re-issuing the invoice
+2022-08-05 10:40:09,75,Invoice Entry
+2022-08-05 12:12:24,75,Confirm Payment Received
+2022-08-05 13:43:16,75,Refund With Standard Voucher
+2022-08-05 14:33:32,75,Complete the Customer Memo
+2022-08-05 17:50:36,75,Approve Invoice
+2022-08-08 09:09:10,75,Credit Memo Creation
+2022-08-08 10:04:51,75,Fill Credit Memo
+2022-08-08 10:50:40,75,Re-issuing the invoice
+2022-08-12 16:22:40,76,Invoice Entry
+2022-08-12 17:44:09,76,Check Customer Payment
+2022-08-15 09:53:24,76,Credit Memo Entry
+2022-08-15 10:56:04,76,Refund Customer
+2022-08-15 12:20:50,76,Re-issuing the invoice
+2022-07-27 09:50:53,77,Invoice Entry
+2022-07-27 11:43:24,77,Confirm Payment Received
+2022-07-27 12:37:19,77,Refund With Standard Voucher
+2022-07-27 13:30:00,77,Complete the Customer Memo
+2022-07-27 17:19:08,77,Approve Invoice
+2022-07-28 09:28:54,77,Credit Memo Creation
+2022-07-28 10:58:48,77,Fill Credit Memo
+2022-07-28 12:23:48,77,Re-issuing the invoice
+2022-07-20 09:39:07,78,Invoice Entry
+2022-07-20 11:17:41,78,Check Customer Payment
+2022-07-20 12:27:48,78,Credit Memo Entry
+2022-07-20 14:17:31,78,Refund Customer
+2022-07-20 15:31:53,78,Re-issuing the invoice
+2022-07-15 14:57:26,79,Invoice Entry
+2022-07-15 16:32:33,79,Confirm Payment Received
+2022-07-15 17:50:49,79,Refund With Standard Voucher
+2022-07-18 09:39:47,79,Complete the Customer Memo
+2022-07-18 14:01:06,79,Reject Invoice
+2022-07-18 15:46:51,79,Refund With Standard Voucher
+2022-07-18 16:40:42,79,Complete the Customer Memo
+2022-07-19 09:08:49,79,Approve Invoice
+2022-07-19 12:18:37,79,Credit Memo Creation
+2022-07-19 12:57:12,79,Fill Credit Memo
+2022-07-19 13:38:58,79,Re-issuing the invoice
+2022-07-14 17:29:06,80,Invoice Entry
+2022-07-15 09:32:23,80,Check Customer Payment
+2022-07-15 15:49:53,80,Credit Memo Entry
+2022-07-18 09:09:10,80,Refund Customer
+2022-07-18 16:36:42,80,Re-issuing the invoice
+2022-07-14 09:49:51,81,Invoice Entry
+2022-07-15 09:32:01,81,Check Customer Payment
+2022-07-15 16:01:05,81,Credit Memo Entry
+2022-07-18 09:19:28,81,Refund Customer
+2022-07-18 15:16:27,81,Re-issuing the invoice
+2022-07-22 09:18:30,82,Invoice Entry
+2022-07-22 10:30:47,82,Confirm Payment Received
+2022-07-22 11:55:12,82,Refund With Standard Voucher
+2022-07-22 12:57:57,82,Complete the Customer Memo
+2022-07-22 15:43:30,82,Reject Invoice
+2022-07-25 09:00:33,82,Refund With Standard Voucher
+2022-07-25 10:04:39,82,Complete the Customer Memo
+2022-07-25 12:54:45,82,Reject Invoice
+2022-07-25 16:04:36,82,Refund With Standard Voucher
+2022-07-25 16:30:33,82,Complete the Customer Memo
+2022-07-26 09:14:36,82,Approve Invoice
+2022-07-26 11:55:12,82,Credit Memo Creation
+2022-07-26 12:43:27,82,Fill Credit Memo
+2022-07-26 13:23:56,82,Re-issuing the invoice
+2022-08-09 17:24:52,83,Invoice Entry
+2022-08-10 09:48:02,83,Check Customer Payment
+2022-08-10 10:46:46,83,Credit Memo Entry
+2022-08-10 11:15:18,83,Refund Customer
+2022-08-10 12:25:57,83,Re-issuing the invoice
+2022-08-09 09:26:52,84,Invoice Entry
+2022-08-09 10:49:15,84,Confirm Payment Received
+2022-08-09 12:08:35,84,Refund With Standard Voucher
+2022-08-09 12:59:10,84,Complete the Customer Memo
+2022-08-09 16:15:43,84,Reject Invoice
+2022-08-10 09:02:28,84,Refund With Standard Voucher
+2022-08-10 09:42:09,84,Complete the Customer Memo
+2022-08-10 13:16:34,84,Reject Invoice
+2022-08-10 16:08:11,84,Refund With Standard Voucher
+2022-08-10 17:13:40,84,Complete the Customer Memo
+2022-08-11 09:24:52,84,Approve Invoice
+2022-08-11 11:47:13,84,Credit Memo Creation
+2022-08-11 12:34:33,84,Fill Credit Memo
+2022-08-11 13:25:43,84,Re-issuing the invoice
+2022-08-01 13:43:52,85,Invoice Entry
+2022-08-01 15:18:35,85,Confirm Payment Received
+2022-08-01 16:58:18,85,Refund With Standard Voucher
+2022-08-01 17:43:57,85,Complete the Customer Memo
+2022-08-02 09:10:48,85,Approve Invoice
+2022-08-02 12:53:02,85,Credit Memo Creation
+2022-08-02 13:30:37,85,Fill Credit Memo
+2022-08-02 14:24:18,85,Re-issuing the invoice
+2022-07-15 15:07:26,86,Invoice Entry
+2022-07-15 16:02:28,86,Confirm Payment Received
+2022-07-15 17:17:55,86,Refund With Standard Voucher
+2022-07-18 09:02:20,86,Complete the Customer Memo
+2022-07-18 12:26:50,86,Reject Invoice
+2022-07-18 15:22:07,86,Refund With Standard Voucher
+2022-07-18 16:08:17,86,Complete the Customer Memo
+2022-07-19 09:41:56,86,Approve Invoice
+2022-07-19 13:20:04,86,Credit Memo Creation
+2022-07-19 14:06:43,86,Fill Credit Memo
+2022-07-19 14:38:55,86,Re-issuing the invoice
+2022-08-09 12:44:55,87,Invoice Entry
+2022-08-09 14:45:34,87,Confirm Payment Received
+2022-08-09 16:57:11,87,Refund With Standard Voucher
+2022-08-10 09:13:27,87,Complete the Customer Memo
+2022-08-10 14:18:35,87,Reject Invoice
+2022-08-10 17:12:31,87,Refund With Standard Voucher
+2022-08-11 09:47:08,87,Complete the Customer Memo
+2022-08-11 13:07:46,87,Reject Invoice
+2022-08-11 16:02:55,87,Refund With Standard Voucher
+2022-08-11 17:29:35,87,Complete the Customer Memo
+2022-08-12 09:00:40,87,Approve Invoice
+2022-08-12 12:33:29,87,Credit Memo Creation
+2022-08-12 14:02:11,87,Fill Credit Memo
+2022-08-12 15:13:05,87,Re-issuing the invoice
+2022-07-19 11:11:31,88,Invoice Entry
+2022-07-20 09:57:55,88,Check Customer Payment
+2022-07-20 17:13:19,88,Credit Memo Entry
+2022-07-21 09:56:45,88,Refund Customer
+2022-07-21 17:22:45,88,Re-issuing the invoice
+2022-08-04 09:04:18,89,Invoice Entry
+2022-08-04 10:07:04,89,Confirm Payment Received
+2022-08-04 11:27:23,89,Refund With Standard Voucher
+2022-08-04 12:18:27,89,Complete the Customer Memo
+2022-08-04 15:37:09,89,Approve Invoice
+2022-08-05 09:42:30,89,Credit Memo Creation
+2022-08-05 10:44:15,89,Fill Credit Memo
+2022-08-05 11:18:49,89,Re-issuing the invoice
+2022-08-17 09:25:02,90,Invoice Entry
+2022-08-17 10:56:09,90,Check Customer Payment
+2022-08-17 11:42:30,90,Credit Memo Entry
+2022-08-17 12:22:41,90,Refund Customer
+2022-08-17 14:00:30,90,Re-issuing the invoice
+2022-08-03 09:36:16,91,Invoice Entry
+2022-08-03 11:01:29,91,Confirm Payment Received
+2022-08-03 12:14:11,91,Refund With Standard Voucher
+2022-08-03 12:59:02,91,Complete the Customer Memo
+2022-08-03 16:05:38,91,Approve Invoice
+2022-08-04 09:37:09,91,Credit Memo Creation
+2022-08-04 10:19:49,91,Fill Credit Memo
+2022-08-04 11:01:41,91,Re-issuing the invoice
+2022-07-21 16:28:05,92,Invoice Entry
+2022-07-22 09:12:49,92,Confirm Payment Received
+2022-07-22 11:16:59,92,Refund With Standard Voucher
+2022-07-22 13:20:40,92,Complete the Customer Memo
+2022-07-22 15:52:01,92,Approve Invoice
+2022-07-25 09:31:35,92,Credit Memo Creation
+2022-07-25 11:21:22,92,Fill Credit Memo
+2022-07-25 13:14:50,92,Re-issuing the invoice
+2022-08-17 09:35:02,93,Invoice Entry
+2022-08-17 10:51:03,93,Check Customer Payment
+2022-08-17 12:09:06,93,Credit Memo Entry
+2022-08-17 13:15:14,93,Refund Customer
+2022-08-17 14:12:09,93,Re-issuing the invoice
+2022-07-21 09:44:18,94,Invoice Entry
+2022-07-21 17:35:18,94,Confirm Payment Received
+2022-07-22 09:53:24,94,Refund With Standard Voucher
+2022-07-22 17:04:57,94,Complete the Customer Memo
+2022-07-25 09:46:11,94,Approve Invoice
+2022-07-25 16:53:24,94,Credit Memo Creation
+2022-07-26 09:19:41,94,Fill Credit Memo
+2022-07-26 15:40:59,94,Re-issuing the invoice
+2022-08-09 15:26:13,95,Invoice Entry
+2022-08-09 17:38:23,95,Confirm Payment Received
+2022-08-10 09:50:04,95,Refund With Standard Voucher
+2022-08-10 10:54:21,95,Complete the Customer Memo
+2022-08-10 15:21:51,95,Approve Invoice
+2022-08-11 09:57:40,95,Credit Memo Creation
+2022-08-11 11:11:44,95,Fill Credit Memo
+2022-08-11 12:35:01,95,Re-issuing the invoice
+2022-08-04 12:09:07,96,Invoice Entry
+2022-08-04 13:52:35,96,Confirm Payment Received
+2022-08-04 15:32:08,96,Refund With Standard Voucher
+2022-08-04 16:48:06,96,Complete the Customer Memo
+2022-08-05 09:30:45,96,Approve Invoice
+2022-08-05 13:04:14,96,Credit Memo Creation
+2022-08-05 14:14:58,96,Fill Credit Memo
+2022-08-05 15:48:35,96,Re-issuing the invoice
+2022-07-15 13:10:36,97,Invoice Entry
+2022-07-18 09:24:43,97,Check Customer Payment
+2022-07-18 17:29:40,97,Credit Memo Entry
+2022-07-19 09:58:58,97,Refund Customer
+2022-07-19 17:40:37,97,Re-issuing the invoice
+2022-08-09 15:46:13,98,Invoice Entry
+2022-08-09 17:23:46,98,Confirm Payment Received
+2022-08-10 09:05:31,98,Refund With Standard Voucher
+2022-08-10 09:58:53,98,Complete the Customer Memo
+2022-08-10 13:44:09,98,Approve Invoice
+2022-08-10 16:26:42,98,Credit Memo Creation
+2022-08-10 16:54:59,98,Fill Credit Memo
+2022-08-10 17:55:21,98,Re-issuing the invoice
+2022-08-11 09:38:31,99,Invoice Entry
+2022-08-11 11:17:28,99,Confirm Payment Received
+2022-08-11 13:15:26,99,Refund With Standard Voucher
+2022-08-11 15:11:41,99,Complete the Customer Memo
+2022-08-12 09:25:20,99,Approve Invoice
+2022-08-12 13:36:32,99,Credit Memo Creation
+2022-08-12 15:21:11,99,Fill Credit Memo
+2022-08-12 16:45:38,99,Re-issuing the invoice
+2022-08-11 17:59:25,100,Invoice Entry
+2022-08-12 09:15:21,100,Confirm Payment Received
+2022-08-12 10:35:25,100,Refund With Standard Voucher
+2022-08-12 11:31:14,100,Complete the Customer Memo
+2022-08-12 14:33:55,100,Approve Invoice
+2022-08-12 17:40:37,100,Credit Memo Creation
+2022-08-15 09:29:46,100,Fill Credit Memo
+2022-08-15 09:53:42,100,Re-issuing the invoice
+2022-08-11 12:02:03,101,Invoice Entry
+2022-08-11 13:12:42,101,Confirm Payment Received
+2022-08-11 14:32:24,101,Refund With Standard Voucher
+2022-08-11 15:24:59,101,Complete the Customer Memo
+2022-08-12 09:30:06,101,Approve Invoice
+2022-08-12 12:41:15,101,Credit Memo Creation
+2022-08-12 13:15:24,101,Fill Credit Memo
+2022-08-12 13:50:37,101,Re-issuing the invoice
+2022-07-21 10:56:23,102,Invoice Entry
+2022-07-21 12:32:43,102,Confirm Payment Received
+2022-07-21 14:25:12,102,Refund With Standard Voucher
+2022-07-21 15:53:16,102,Complete the Customer Memo
+2022-07-22 09:03:51,102,Approve Invoice
+2022-07-22 11:58:00,102,Credit Memo Creation
+2022-07-22 13:21:46,102,Fill Credit Memo
+2022-07-22 14:58:59,102,Re-issuing the invoice
+2022-08-09 15:16:13,103,Invoice Entry
+2022-08-09 17:12:38,103,Check Customer Payment
+2022-08-10 09:20:34,103,Credit Memo Entry
+2022-08-10 10:03:25,103,Refund Customer
+2022-08-10 11:54:52,103,Re-issuing the invoice
+2022-07-19 09:23:36,104,Invoice Entry
+2022-07-19 11:11:09,104,Check Customer Payment
+2022-07-19 12:52:58,104,Credit Memo Entry
+2022-07-19 14:02:39,104,Refund Customer
+2022-07-19 15:49:58,104,Re-issuing the invoice
+2022-07-18 09:04:34,105,Invoice Entry
+2022-07-18 15:46:55,105,Check Customer Payment
+2022-07-19 09:01:36,105,Credit Memo Entry
+2022-07-19 15:48:08,105,Refund Customer
+2022-07-20 09:50:35,105,Re-issuing the invoice
+2022-07-25 09:11:37,106,Invoice Entry
+2022-07-25 10:16:40,106,Confirm Payment Received
+2022-07-25 11:48:21,106,Refund With Standard Voucher
+2022-07-25 12:27:55,106,Complete the Customer Memo
+2022-07-25 15:16:10,106,Approve Invoice
+2022-07-26 09:30:12,106,Credit Memo Creation
+2022-07-26 10:25:12,106,Fill Credit Memo
+2022-07-26 10:50:20,106,Re-issuing the invoice
+2022-08-05 09:50:35,107,Invoice Entry
+2022-08-05 11:40:28,107,Check Customer Payment
+2022-08-05 13:20:00,107,Credit Memo Entry
+2022-08-05 14:39:31,107,Refund Customer
+2022-08-05 16:57:37,107,Re-issuing the invoice
+2022-08-22 11:35:00,108,Invoice Entry
+2022-08-22 12:38:33,108,Confirm Payment Received
+2022-08-22 14:27:18,108,Refund With Standard Voucher
+2022-08-22 15:17:42,108,Complete the Customer Memo
+2022-08-23 09:56:54,108,Approve Invoice
+2022-08-23 12:57:27,108,Credit Memo Creation
+2022-08-23 13:44:58,108,Fill Credit Memo
+2022-08-23 14:21:13,108,Re-issuing the invoice
+2022-08-16 15:45:23,109,Invoice Entry
+2022-08-16 17:04:10,109,Check Customer Payment
+2022-08-17 09:21:04,109,Credit Memo Entry
+2022-08-17 10:48:43,109,Refund Customer
+2022-08-17 11:52:15,109,Re-issuing the invoice
+2022-08-18 10:40:50,110,Invoice Entry
+2022-08-18 12:45:13,110,Check Customer Payment
+2022-08-18 14:34:32,110,Credit Memo Entry
+2022-08-18 15:49:34,110,Refund Customer
+2022-08-18 17:26:32,110,Re-issuing the invoice
+2022-07-15 09:39:44,111,Invoice Entry
+2022-07-15 10:53:37,111,Check Customer Payment
+2022-07-15 12:00:38,111,Credit Memo Entry
+2022-07-15 13:00:00,111,Refund Customer
+2022-07-15 14:29:37,111,Re-issuing the invoice
+2022-07-20 12:55:39,112,Invoice Entry
+2022-07-20 13:41:22,112,Confirm Payment Received
+2022-07-20 14:56:25,112,Refund With Standard Voucher
+2022-07-20 16:02:35,112,Complete the Customer Memo
+2022-07-21 09:35:01,112,Approve Invoice
+2022-07-21 12:32:19,112,Credit Memo Creation
+2022-07-21 13:12:48,112,Fill Credit Memo
+2022-07-21 14:19:36,112,Re-issuing the invoice
+2022-07-19 09:53:04,113,Invoice Entry
+2022-07-19 16:42:10,113,Confirm Payment Received
+2022-07-20 09:12:46,113,Refund With Standard Voucher
+2022-07-20 17:38:39,113,Complete the Customer Memo
+2022-07-21 09:03:47,113,Approve Invoice
+2022-07-21 17:22:03,113,Credit Memo Creation
+2022-07-22 09:47:15,113,Fill Credit Memo
+2022-07-22 13:30:41,113,Re-issuing the invoice
+2022-08-11 16:12:55,114,Invoice Entry
+2022-08-12 09:23:13,114,Check Customer Payment
+2022-08-12 10:43:03,114,Credit Memo Entry
+2022-08-12 11:50:39,114,Refund Customer
+2022-08-12 13:57:02,114,Re-issuing the invoice
+2022-07-29 13:17:07,115,Invoice Entry
+2022-07-29 15:27:45,115,Check Customer Payment
+2022-07-29 16:36:55,115,Credit Memo Entry
+2022-08-01 09:05:51,115,Refund Customer
+2022-08-01 11:55:25,115,Re-issuing the invoice
+2022-08-02 09:51:27,116,Invoice Entry
+2022-08-02 11:34:49,116,Confirm Payment Received
+2022-08-02 13:16:44,116,Refund With Standard Voucher
+2022-08-02 14:39:10,116,Complete the Customer Memo
+2022-08-02 17:44:57,116,Approve Invoice
+2022-08-03 09:22:32,116,Credit Memo Creation
+2022-08-03 10:57:51,116,Fill Credit Memo
+2022-08-03 12:30:14,116,Re-issuing the invoice
+2022-08-11 16:22:55,117,Invoice Entry
+2022-08-11 17:59:15,117,Check Customer Payment
+2022-08-12 09:54:20,117,Credit Memo Entry
+2022-08-12 10:30:54,117,Refund Customer
+2022-08-12 11:58:40,117,Re-issuing the invoice
+2022-08-01 09:03:48,118,Invoice Entry
+2022-08-01 10:55:33,118,Confirm Payment Received
+2022-08-01 12:29:16,118,Refund With Standard Voucher
+2022-08-01 14:08:35,118,Complete the Customer Memo
+2022-08-01 16:15:19,118,Reject Invoice
+2022-08-02 09:43:01,118,Refund With Standard Voucher
+2022-08-02 10:38:34,118,Complete the Customer Memo
+2022-08-02 14:02:54,118,Approve Invoice
+2022-08-03 09:45:33,118,Credit Memo Creation
+2022-08-03 11:15:25,118,Fill Credit Memo
+2022-08-03 12:26:05,118,Re-issuing the invoice
+2022-07-22 09:13:04,119,Invoice Entry
+2022-07-22 17:38:07,119,Confirm Payment Received
+2022-07-25 09:01:24,119,Refund With Special Voucher
+2022-07-26 09:02:31,119,Complete the Customer Memo
+2022-07-26 17:40:06,119,Approve Invoice
+2022-07-27 09:50:38,119,Credit Memo Creation
+2022-07-27 16:55:43,119,Fill Credit Memo
+2022-07-28 09:25:24,119,Re-issuing the invoice
+2022-07-20 13:18:05,120,Invoice Entry
+2022-07-21 09:28:18,120,Confirm Payment Received
+2022-07-21 15:48:56,120,Refund With Standard Voucher
+2022-07-22 09:13:50,120,Complete the Customer Memo
+2022-07-25 09:06:38,120,Approve Invoice
+2022-07-25 16:51:27,120,Credit Memo Creation
+2022-07-26 09:09:33,120,Fill Credit Memo
+2022-07-26 14:13:08,120,Re-issuing the invoice
+2022-08-08 09:55:37,121,Invoice Entry
+2022-08-08 11:27:19,121,Check Customer Payment
+2022-08-08 13:00:26,121,Credit Memo Entry
+2022-08-08 14:49:08,121,Refund Customer
+2022-08-08 17:31:46,121,Re-issuing the invoice
+2022-07-21 09:53:01,122,Invoice Entry
+2022-07-21 11:27:05,122,Confirm Payment Received
+2022-07-21 13:31:26,122,Refund With Standard Voucher
+2022-07-21 14:25:25,122,Complete the Customer Memo
+2022-07-21 16:01:14,122,Approve Invoice
+2022-07-22 09:27:48,122,Credit Memo Creation
+2022-07-22 10:39:09,122,Fill Credit Memo
+2022-07-22 12:05:03,122,Re-issuing the invoice
+2022-07-27 13:07:18,123,Invoice Entry
+2022-07-27 15:01:06,123,Check Customer Payment
+2022-07-27 16:14:50,123,Credit Memo Entry
+2022-07-27 17:52:16,123,Refund Customer
+2022-07-28 09:16:06,123,Re-issuing the invoice
+2022-08-08 09:04:36,124,Invoice Entry
+2022-08-08 10:29:39,124,Confirm Payment Received
+2022-08-08 12:08:37,124,Refund With Standard Voucher
+2022-08-08 12:44:42,124,Complete the Customer Memo
+2022-08-08 15:51:07,124,Reject Invoice
+2022-08-09 09:38:09,124,Refund With Standard Voucher
+2022-08-09 10:56:47,124,Complete the Customer Memo
+2022-08-09 13:31:08,124,Reject Invoice
+2022-08-09 16:18:38,124,Refund With Standard Voucher
+2022-08-09 17:26:14,124,Complete the Customer Memo
+2022-08-10 09:18:54,124,Reject Invoice
+2022-08-10 12:11:51,124,Refund With Standard Voucher
+2022-08-10 12:49:47,124,Complete the Customer Memo
+2022-08-10 15:08:15,124,Reject Invoice
+2022-08-11 09:06:02,124,Refund With Standard Voucher
+2022-08-11 09:38:50,124,Complete the Customer Memo
+2022-08-11 13:15:06,124,Approve Invoice
+2022-08-11 16:32:56,124,Credit Memo Creation
+2022-08-11 17:10:30,124,Fill Credit Memo
+2022-08-11 17:49:41,124,Re-issuing the invoice
+2022-08-12 16:32:40,125,Invoice Entry
+2022-08-12 17:37:08,125,Confirm Payment Received
+2022-08-15 09:48:09,125,Refund With Standard Voucher
+2022-08-15 10:41:59,125,Complete the Customer Memo
+2022-08-15 14:08:04,125,Approve Invoice
+2022-08-15 17:41:04,125,Credit Memo Creation
+2022-08-16 09:25:14,125,Fill Credit Memo
+2022-08-16 10:00:04,125,Re-issuing the invoice
+2022-07-26 09:10:52,126,Invoice Entry
+2022-07-26 15:05:00,126,Confirm Payment Received
+2022-07-27 09:36:24,126,Refund With Special Voucher
+2022-07-28 09:20:18,126,Complete the Customer Memo
+2022-07-29 09:16:55,126,Approve Invoice
+2022-08-01 09:53:45,126,Credit Memo Creation
+2022-08-01 15:17:45,126,Fill Credit Memo
+2022-08-02 09:30:40,126,Re-issuing the invoice
+2022-07-29 09:40:00,127,Invoice Entry
+2022-07-29 11:28:34,127,Check Customer Payment
+2022-07-29 12:53:55,127,Credit Memo Entry
+2022-07-29 15:05:03,127,Refund Customer
+2022-07-29 16:52:49,127,Re-issuing the invoice
+2022-08-15 10:35:17,128,Invoice Entry
+2022-08-15 12:15:41,128,Confirm Payment Received
+2022-08-15 14:08:48,128,Refund With Standard Voucher
+2022-08-15 15:18:54,128,Complete the Customer Memo
+2022-08-15 17:34:16,128,Reject Invoice
+2022-08-16 09:22:21,128,Refund With Standard Voucher
+2022-08-16 10:58:34,128,Complete the Customer Memo
+2022-08-16 15:36:39,128,Reject Invoice
+2022-08-17 09:17:07,128,Refund With Standard Voucher
+2022-08-17 10:44:55,128,Complete the Customer Memo
+2022-08-17 14:09:49,128,Reject Invoice
+2022-08-17 17:00:23,128,Refund With Standard Voucher
+2022-08-17 17:41:33,128,Complete the Customer Memo
+2022-08-18 09:53:11,128,Reject Invoice
+2022-08-18 12:59:37,128,Refund With Standard Voucher
+2022-08-18 13:35:05,128,Complete the Customer Memo
+2022-08-18 17:35:07,128,Approve Invoice
+2022-08-19 09:44:47,128,Credit Memo Creation
+2022-08-19 11:09:13,128,Fill Credit Memo
+2022-08-19 12:44:21,128,Re-issuing the invoice
+2022-08-15 10:55:17,129,Invoice Entry
+2022-08-15 13:03:08,129,Check Customer Payment
+2022-08-15 14:36:49,129,Credit Memo Entry
+2022-08-15 15:42:37,129,Refund Customer
+2022-08-15 17:24:40,129,Re-issuing the invoice
+2022-07-14 10:09:51,130,Invoice Entry
+2022-07-14 12:09:06,130,Check Customer Payment
+2022-07-14 13:55:46,130,Credit Memo Entry
+2022-07-14 15:31:25,130,Refund Customer
+2022-07-14 17:29:05,130,Re-issuing the invoice
+2022-08-23 09:38:02,131,Invoice Entry
+2022-08-23 11:34:43,131,Confirm Payment Received
+2022-08-23 13:19:12,131,Refund With Standard Voucher
+2022-08-23 14:13:35,131,Complete the Customer Memo
+2022-08-24 09:28:54,131,Reject Invoice
+2022-08-24 13:09:05,131,Refund With Standard Voucher
+2022-08-24 14:03:11,131,Complete the Customer Memo
+2022-08-25 09:13:03,131,Reject Invoice
+2022-08-25 11:47:37,131,Refund With Standard Voucher
+2022-08-25 12:32:21,131,Complete the Customer Memo
+2022-08-25 16:46:23,131,Approve Invoice
+2022-08-26 09:59:23,131,Credit Memo Creation
+2022-08-26 11:29:31,131,Fill Credit Memo
+2022-08-26 13:21:00,131,Re-issuing the invoice
+2022-07-28 16:41:15,132,Invoice Entry
+2022-07-29 09:37:51,132,Check Customer Payment
+2022-07-29 16:13:04,132,Credit Memo Entry
+2022-08-01 09:48:13,132,Refund Customer
+2022-08-01 17:18:58,132,Re-issuing the invoice
