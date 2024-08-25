@@ -24,5 +24,17 @@ The folder `example_eventlog` contains an additional example eventlog called `fi
 
 ## Example
 <p align="center">
-<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mine-r/blob/main/process_miner_screenshot.png">
+<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mine-r/blob/main/readme_images/process_miner_screenshot1.png">
+</p>
+
+<p align="center">
+<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mine-r/blob/main/readme_images/process_miner_screenshot2.png">
+</p>
+
+<p align="center">
+<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mine-r/blob/main/readme_images/process_miner_screenshot3.png">
+</p>
+
+<p align="center">
+<img width="1429" alt="example" src="https://github.com/dempseynoel/process-mine-r/blob/main/readme_images/process_miner_screenshot4.png">
 </p>
