@@ -2,6 +2,8 @@
 
 A process mining application built in R Shiny where users can upload events to explore in an activity map and examine throughput time. Interact with the tool and example event log **[here](https://ndrshiny.shinyapps.io/process_mining_application/)**.
 
+### Awarded Honourable Mention in Posit's Shiny Competition 2024: https://posit.co/blog/winners-of-the-2024-shiny-contest/
+
 ## What is process mining?
 Process mining is the deep-dive analysis, discovery, monitoring and improvement of as-is processes. It takes all of the data related with a process and "mines" it for insight on potential improvement, focusing on finding better, more efficient pathways in operations. 
 
